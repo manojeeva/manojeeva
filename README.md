@@ -1,6 +1,6 @@
 # Hi! I'm Manoj Kumar
 
-I'm a mobile developer and web developer unleashing the power of hybrid apps using Flutter, ReactNative and ReactJS 
+I'm a mobile application developer, unleashing the power of hybrid apps using Flutter
 
 Let's teach others and learn more.
 <h3>Languages and Tools Used</h3>
